@@ -173,6 +173,7 @@
 * [mring33621/nats-messaging-for-nifi](https://github.com/mring33621/nats-messaging-for-nifi) - NATS messaging processors for Apache Nifi
 * [aashar/NiFi4Trading](https://github.com/aashar/NiFi4Trading) - NiFi Bundle for FIX Protocol
 * [tspannhw/linkextractorprocessor](https://github.com/tspannhw/linkextractorprocessor) - Extracts links from HTML pages
+* [ip2location/nifi-ip2location-record-bundle](https://github.com/ip2location/nifi-ip2location-record-bundle) - Enrich data with IP2Location geolocation data
 
 ## Deployment
 
